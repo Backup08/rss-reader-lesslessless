@@ -4,9 +4,9 @@ Demo: https://youtu.be/g_mNdUTqkuo
 
 A distraction free RSS reader with NLP features.
 
-<div style='border: 1px solid black;'>
+<a href='https://youtu.be/g_mNdUTqkuo'>
 <img src='screenshot.png'>
-</div>
+</a>
 
 # Execution 
 
